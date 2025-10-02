@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+header{
+    border: 2px black solid;
+}
+
+nav{
+    border: 2px black solid;
+}
+
+section{
+    border: 2px black solid;
+    float: left;
+}
+
+aside{
+    border: 2px black solid;
+    padding-bottom: 127px;
+}
+
+footer{
+    border: 2px black solid;
+}
+
